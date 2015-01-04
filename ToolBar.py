@@ -42,7 +42,7 @@ class ToolBar(gtk.VBox):
         '''abrir un panel mas grande con mas botones y hareas de texto para elejir la pagina
         datos sobre la imagen,coordenasdas,angulo,escala,mucho mas.'''
         
-        
+        "' Open a browser and copy/paste link in url to further view/manage/modify the image'" // English translation 
         
         self.pack_start(self.exe,False,False,5)
         self.exe = nuevoBoton(gtk.STOCK_EXECUTE,"execute")
