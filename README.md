@@ -1,12 +1,12 @@
 Pviewer
 =======
 
-this is an experimental image viewer. its in an early state. English is not my first language but i try to make english comments in the code.
+This is an experimental image viewer. Its in an early state. English is not my first language but I try to make english comments in the code.
 
-to view a picture:
-  python Pviewer /payh/to/an/image.img
+To view a picture:
+  python Pviewer /path/to/image.img
   or
-  python Pviewer
+  python Pviewer ()
   and drag and drop a file to the window
   
 to manipulate the image:
